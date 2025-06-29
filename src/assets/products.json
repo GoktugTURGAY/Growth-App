@@ -1,0 +1,169 @@
+{
+  "physical": [
+    {
+      "id": 1,
+      "productName": "Productivity Desk Kit",
+      "type": "Stationery",
+      "price": 39,
+      "description": "A branded kit with everything you need to stay organized and focused.",
+      "features": ["Notebook", "Pens", "Sticky notes", "Time-block planner"]
+    },
+    {
+      "id": 2,
+      "productName": "Growth App Laptop Stand",
+      "type": "Accessory",
+      "price": 49,
+      "description": "Ergonomic and foldable laptop stand with Growth App branding.",
+      "features": ["Aluminum build", "Height adjustable", "Portable"]
+    },
+    {
+      "id": 3,
+      "productName": "Conference-Ready Pitch Kit",
+      "type": "Presentation Tools",
+      "price": 59,
+      "description": "Essential tools for startup founders attending investor meetings or pitch events.",
+      "features": [
+        "USB pitch deck drive",
+        "Mini ring light",
+        "Branded folder",
+        "Laser pointer"
+      ]
+    },
+    {
+      "id": 4,
+      "productName": "Founder’s Whiteboard Set",
+      "type": "Office Supply",
+      "price": 45,
+      "description": "A portable whiteboard kit for brainstorming, goal planning, and daily stand-ups.",
+      "features": [
+        "Mini whiteboard",
+        "Dry erase markers",
+        "Eraser cloth",
+        "Magnetic back"
+      ]
+    },
+    {
+      "id": 5,
+      "productName": "Growth Goals Wall Calendar",
+      "type": "Office Decor",
+      "price": 35,
+      "description": "A startup-themed 12-month calendar to plan quarterly OKRs and deadlines visually.",
+      "features": ["Goal sections", "Dry-erase surface", "Motivational quotes"]
+    },
+    {
+      "id": 6,
+      "productName": "Pitch Practice Flashcards",
+      "type": "Training Aid",
+      "price": 28,
+      "description": "Card deck with pitch prompts, objection handlers, and storytelling cues.",
+      "features": ["50+ flashcards", "Scenario prompts", "Investor FAQs"]
+    }
+  ],
+
+  "digital": [
+    {
+      "id": 1,
+      "productName": "Startup Growth Blueprint",
+      "type": "eBook",
+      "price": 19,
+      "description": "A 30-day actionable guide to grow your startup from idea to traction.",
+      "features": ["Daily checklists", "Marketing templates", "KPI tracking"]
+    },
+    {
+      "id": 2,
+      "productName": "Lean Team Productivity Toolkit",
+      "type": "Template Bundle",
+      "price": 29,
+      "description": "Ready-to-use Notion and Google Sheets templates for high-performing teams.",
+      "features": ["Task board", "Weekly planner", "Meeting agenda format"]
+    },
+    {
+      "id": 3,
+      "productName": "Analytics for Founders Course",
+      "type": "Video Course",
+      "price": 49,
+      "description": "Learn to harness data and make growth-focused decisions without being technical.",
+      "features": [
+        "Self-paced lessons",
+        "Real startup examples",
+        "Interactive exercises"
+      ]
+    },
+    {
+      "id": 4,
+      "productName": "AI Task Prioritizer",
+      "type": "AI Tool",
+      "price": 15,
+      "description": "An intelligent widget that helps prioritize tasks based on impact and urgency.",
+      "features": [
+        "Drag-and-drop UI",
+        "Integrates with Growth App",
+        "Custom scoring"
+      ]
+    },
+    {
+      "id": 5,
+      "productName": "Startup Compliance Pack",
+      "type": "Template Pack",
+      "price": 35,
+      "description": "Editable legal and compliance documents for early-stage startups and freelancers.",
+      "features": [
+        "NDA template",
+        "Contractor checklist",
+        "Privacy policy starter"
+      ]
+    },
+    {
+      "id": 6,
+      "productName": "Investor Email Script Pack",
+      "type": "Copywriting Resource",
+      "price": 12,
+      "description": "Pre-written email templates to pitch investors, follow up, and build relationships.",
+      "features": [
+        "Cold outreach templates",
+        "Follow-up emails",
+        "Investor updates"
+      ]
+    },
+    {
+      "id": 7,
+      "productName": "Startup Onboarding Flow Kit",
+      "type": "UX Template",
+      "price": 25,
+      "description": "Figma-based onboarding flows to help your SaaS users get activated quickly.",
+      "features": ["User journey maps", "UI mockups", "Checklist builder"]
+    },
+    {
+      "id": 8,
+      "productName": "Pitch Deck Design Templates",
+      "type": "Presentation Template",
+      "price": 22,
+      "description": "Beautiful, investor-ready pitch deck designs in Figma and PowerPoint formats.",
+      "features": [
+        "10+ slide layouts",
+        "Customizable themes",
+        "Investor-focused structure"
+      ]
+    },
+    {
+      "id": 9,
+      "productName": "Remote Team Ops Handbook",
+      "type": "eBook",
+      "price": 18,
+      "description": "A practical guide for managing distributed teams effectively and asynchronously.",
+      "features": [
+        "Tool recommendations",
+        "Meeting alternatives",
+        "Onboarding strategies"
+      ]
+    },
+    {
+      "id": 10,
+      "productName": "Founder Wellness Checklist",
+      "type": "Template",
+      "price": 10,
+      "description": "A daily wellness tracking sheet designed to help startup founders avoid burnout.",
+      "features": ["Daily habits log", "Energy tracking", "Mindfulness prompts"]
+    }
+  ]
+}

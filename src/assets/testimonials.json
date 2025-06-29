@@ -1,0 +1,44 @@
+[
+  {
+    "author": "Lena Martinez",
+    "job": "Co-Founder at NexaLoop",
+    "testimonial": "Growth App helped us scale our operations without the usual growing pains. The task management and reporting tools made everything more transparent and efficient.",
+    "img": "../src/assets/images/testimonial-images/testimonial-3.jpg"
+  },
+  {
+    "author": "Martin Zhao",
+    "job": "Project Manager at CloudForge Studio",
+    "testimonial": "We were juggling spreadsheets and email chains before Growth App. Now everything's organized, and our team actually enjoys tracking progress.",
+    "img": "../src/assets/images/testimonial-images/testimonial-2.jpg"
+  },
+  {
+    "author": "Aisha Patel",
+    "job": "Head of Operations at BrightBranch",
+    "testimonial": "The real-time collaboration features made a huge difference. Whether we’re in the office or remote, the whole team is always on the same page.",
+    "img": "../src/assets/images/testimonial-images/testimonial-4.jpg"
+  },
+  {
+    "author": "Jacob Nguyen",
+    "job": "COO at UrbanLayer",
+    "testimonial": "The onboarding was smooth, and their support team went above and beyond to help us integrate the app into our existing workflow.",
+    "img": "../src/assets/images/testimonial-images/testimonial-1.jpg"
+  },
+  {
+    "author": "Sophie Reynolds",
+    "job": "Marketing Lead at OrbitIQ",
+    "testimonial": "The customizable dashboards are fantastic. We set up KPIs specific to our fundraising and marketing goals, and now we make decisions backed by data, not guesswork.",
+    "img": "../src/assets/images/testimonial-images/testimonial-6.jpg"
+  },
+  {
+    "author": "Devin Brooks",
+    "job": "Founder at SimpleSpark",
+    "testimonial": "As a solo founder, I needed something lightweight but powerful. Growth App's free plan gave me what I needed to get organized and focus on building.",
+    "img": "../src/assets/images/testimonial-images/testimonial-5.jpg"
+  },
+  {
+    "author": "Khaled Abbas",
+    "job": "Director at Eleven Grid",
+    "testimonial": "Managing both full-time staff and freelancers used to be chaotic. Growth App helped us streamline compliance and communication effortlessly.",
+    "img": "../src/assets/images/testimonial-images/testimonial-7.jpg"
+  }
+]

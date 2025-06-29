@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', Arial, Helvetica, sans-serif;
+
+  --container-extra-big: 1400px;
+  --container-big: 1200px;
+  --container-small: 1000px;
+
+  --color-dark: #131316;
+  --color-dark-50: #e7e7e8;
+
+  --color-primary: #4891ff;
+  --color-primary-hover: #4183e6;
+  --color-primary-400: #5a9cff;
+  --color-primary-300: #6da7ff;
+  --color-primary-50: #edf4ff;
+
+  --hero-bg: url('./src/assets/images/growth/hero-bg.png');
+  --hero-bg-mobile: url('./src/assets/images/growth/hero-bg-mobile.png');
+
+  --offcanvas-width: 300px;
+  --overlay-clr: rgba(0, 0, 0, 0.9);
+
+  --animate-slide-down: slide-down 1000ms alternate;
+
+  @keyframes slide-down {
+    0% {
+      transform: translateY(-40px);
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+      pointer-events: all;
+    }
+  }
+}
